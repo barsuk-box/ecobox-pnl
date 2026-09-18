@@ -1,0 +1,25 @@
+# Working financial data and generated reports do not belong in this package.
+private/
+data/
+output/
+outputs/
+tmp/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pdf
+*.zip
+*.1cd
+*.dt
+*.cf
+*.epf
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
