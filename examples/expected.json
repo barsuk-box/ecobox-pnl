@@ -1,0 +1,10 @@
+{
+  "description": "Independent hand-calculated controls. Synthetic data, RUB.",
+  "actual": [
+    {"period":"2026-01","revenue":1500000,"cogs":860000,"gross":640000,"ebit":425000,"ebitda":475000,"net":335000},
+    {"period":"2026-02","revenue":1700000,"cogs":1020000,"gross":680000,"ebit":430000,"ebitda":485000,"net":340000},
+    {"period":"2026-03","revenue":1900000,"cogs":1110000,"gross":790000,"ebit":490000,"ebitda":550000,"net":385000}
+  ],
+  "actual_total":{"revenue":5100000,"cogs":2990000,"gross":2110000,"ebit":1345000,"ebitda":1510000,"net":1060000},
+  "budget_total":{"revenue":4500000,"cogs":2580000,"gross":1920000,"ebit":1275000,"ebitda":1425000,"net":1005000}
+}

@@ -5,6 +5,8 @@ output/
 outputs/
 tmp/
 *.xlsx
+!assets/pnl-template.xlsx
+!examples/pnl-demo.xlsx
 *.xls
 *.csv
 *.tsv
@@ -21,5 +23,6 @@ tmp/
 __pycache__/
 .venv/
 node_modules/
+*.inspect.ndjson
 .DS_Store
 Thumbs.db
